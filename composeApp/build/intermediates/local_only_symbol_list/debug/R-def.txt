@@ -1,7 +1,13 @@
 R_DEF: Internal format may change without notice
 local
+drawable apple_icon
+drawable back_arrow_icon
+drawable email_confirmation_image
+drawable facebook_icon
+drawable google_icon
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable logo
 mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name
