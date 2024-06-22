@@ -38,7 +38,7 @@ import com.vertexcode.luxuryeye.R
 import com.vertexcode.luxuryeye.presentation.ui.theme.BgLight
 import com.vertexcode.luxuryeye.presentation.ui.theme.PrimaryColor
 
-
+@Preview
 @Composable
 fun Login() {
 

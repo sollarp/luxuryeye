@@ -20,6 +20,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.vertexcode.luxuryeye.R
 
+@Preview
 @Composable
 fun EmailConfirmation() {
 

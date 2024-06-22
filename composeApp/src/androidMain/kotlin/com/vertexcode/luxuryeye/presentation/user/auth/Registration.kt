@@ -34,7 +34,7 @@ import androidx.compose.ui.unit.sp
 import com.vertexcode.luxuryeye.R
 import com.vertexcode.luxuryeye.presentation.ui.theme.BgLight
 
-
+@Preview
 @Composable
 fun Registration() {
 

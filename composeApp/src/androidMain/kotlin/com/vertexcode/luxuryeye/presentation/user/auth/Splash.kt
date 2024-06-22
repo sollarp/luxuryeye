@@ -13,7 +13,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.vertexcode.luxuryeye.R
 
-
+@Preview
 @Composable
 fun Splash() {
 
