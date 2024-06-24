@@ -48,9 +48,11 @@ dimen notification_top_pad
 dimen notification_top_pad_large_text
 drawable apple_icon
 drawable back_arrow_icon
+drawable bag_icon
 drawable email_confirmation_image
 drawable facebook_icon
 drawable google_icon
+drawable heart_icon
 drawable ic_call_answer
 drawable ic_call_answer_low
 drawable ic_call_answer_video
@@ -73,6 +75,9 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable product_image
+drawable rectangle_discount
+drawable search_icon
 id accessibility_action_clickable_span
 id accessibility_custom_action_0
 id accessibility_custom_action_1

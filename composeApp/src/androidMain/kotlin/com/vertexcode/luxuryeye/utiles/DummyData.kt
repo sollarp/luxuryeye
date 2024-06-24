@@ -1,4 +1,6 @@
-package com.vertexcode.luxuryeye
+package com.vertexcode.luxuryeye.utiles
+
+import com.vertexcode.luxuryeye.R
 
 data class DummyData(
     val image: Int,
