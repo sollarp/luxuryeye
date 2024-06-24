@@ -32,6 +32,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.vertexcode.luxuryeye.R
+import com.vertexcode.luxuryeye.components.CustomButton
 import com.vertexcode.luxuryeye.presentation.ui.theme.BgLight
 
 @Preview

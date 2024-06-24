@@ -1,82 +1,102 @@
 [
     {
-        "merged": "/home/muhammad_noman/.gradle/daemon/8.7/com.vertexcode.luxuryeye.composeApp-merged_res-42:/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/home/muhammad_noman/.gradle/daemon/8.7/com.vertexcode.luxuryeye.composeApp-androidMain-43:/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\noman\\.gradle\\daemon\\8.7\\com.vertexcode.luxuryeye.composeApp-merged_res-42:\\drawable_bag_icon.xml.flat",
+        "source": "C:\\Users\\noman\\.gradle\\daemon\\8.7\\com.vertexcode.luxuryeye.composeApp-main-45:\\drawable\\bag_icon.xml"
     },
     {
-        "merged": "/home/muhammad_noman/.gradle/daemon/8.7/com.vertexcode.luxuryeye.composeApp-merged_res-42:/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "/home/muhammad_noman/.gradle/daemon/8.7/com.vertexcode.luxuryeye.composeApp-androidMain-43:/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\noman\\.gradle\\daemon\\8.7\\com.vertexcode.luxuryeye.composeApp-merged_res-42:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\noman\\.gradle\\daemon\\8.7\\com.vertexcode.luxuryeye.composeApp-androidMain-43:\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "/home/muhammad_noman/.gradle/daemon/8.7/com.vertexcode.luxuryeye.composeApp-merged_res-42:/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/home/muhammad_noman/.gradle/daemon/8.7/com.vertexcode.luxuryeye.composeApp-androidMain-43:/mipmap-xhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\noman\\.gradle\\daemon\\8.7\\com.vertexcode.luxuryeye.composeApp-merged_res-42:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\noman\\.gradle\\daemon\\8.7\\com.vertexcode.luxuryeye.composeApp-androidMain-43:\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "/home/muhammad_noman/.gradle/daemon/8.7/com.vertexcode.luxuryeye.composeApp-merged_res-42:/drawable_facebook_icon.png.flat",
-        "source": "/home/muhammad_noman/.gradle/daemon/8.7/com.vertexcode.luxuryeye.composeApp-main-45:/drawable/facebook_icon.png"
+        "merged": "com.vertexcode.luxuryeye.composeApp-merged_res-42:/drawable_rectangle_discount.xml.flat",
+        "source": "com.vertexcode.luxuryeye.composeApp-main-45:/drawable/rectangle_discount.xml"
     },
     {
-        "merged": "/home/muhammad_noman/.gradle/daemon/8.7/com.vertexcode.luxuryeye.composeApp-merged_res-42:/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "/home/muhammad_noman/.gradle/daemon/8.7/com.vertexcode.luxuryeye.composeApp-androidMain-43:/mipmap-xhdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\noman\\.gradle\\daemon\\8.7\\com.vertexcode.luxuryeye.composeApp-merged_res-42:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\noman\\.gradle\\daemon\\8.7\\com.vertexcode.luxuryeye.composeApp-androidMain-43:\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "/home/muhammad_noman/.gradle/daemon/8.7/com.vertexcode.luxuryeye.composeApp-merged_res-42:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "/home/muhammad_noman/.gradle/daemon/8.7/com.vertexcode.luxuryeye.composeApp-androidMain-43:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\noman\\.gradle\\daemon\\8.7\\com.vertexcode.luxuryeye.composeApp-merged_res-42:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\noman\\.gradle\\daemon\\8.7\\com.vertexcode.luxuryeye.composeApp-androidMain-43:\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "com.vertexcode.luxuryeye.composeApp-merged_res-42:/drawable_back_arrow_icon.xml.flat",
-        "source": "com.vertexcode.luxuryeye.composeApp-main-45:/drawable/back_arrow_icon.xml"
+        "merged": "C:\\Users\\noman\\.gradle\\daemon\\8.7\\com.vertexcode.luxuryeye.composeApp-merged_res-42:\\drawable_search_icon.xml.flat",
+        "source": "C:\\Users\\noman\\.gradle\\daemon\\8.7\\com.vertexcode.luxuryeye.composeApp-main-45:\\drawable\\search_icon.xml"
     },
     {
-        "merged": "/home/muhammad_noman/.gradle/daemon/8.7/com.vertexcode.luxuryeye.composeApp-merged_res-42:/drawable_google_icon.png.flat",
-        "source": "/home/muhammad_noman/.gradle/daemon/8.7/com.vertexcode.luxuryeye.composeApp-main-45:/drawable/google_icon.png"
+        "merged": "C:\\Users\\noman\\.gradle\\daemon\\8.7\\com.vertexcode.luxuryeye.composeApp-merged_res-42:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\noman\\.gradle\\daemon\\8.7\\com.vertexcode.luxuryeye.composeApp-androidMain-43:\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "/home/muhammad_noman/.gradle/daemon/8.7/com.vertexcode.luxuryeye.composeApp-merged_res-42:/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "/home/muhammad_noman/.gradle/daemon/8.7/com.vertexcode.luxuryeye.composeApp-androidMain-43:/mipmap-xxhdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\noman\\.gradle\\daemon\\8.7\\com.vertexcode.luxuryeye.composeApp-merged_res-42:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\noman\\.gradle\\daemon\\8.7\\com.vertexcode.luxuryeye.composeApp-androidMain-43:\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "com.vertexcode.luxuryeye.composeApp-merged_res-42:/drawable_email_confirmation_image.png.flat",
-        "source": "com.vertexcode.luxuryeye.composeApp-main-45:/drawable/email_confirmation_image.png"
+        "merged": "C:\\Users\\noman\\.gradle\\daemon\\8.7\\com.vertexcode.luxuryeye.composeApp-merged_res-42:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\noman\\.gradle\\daemon\\8.7\\com.vertexcode.luxuryeye.composeApp-androidMain-43:\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "/home/muhammad_noman/.gradle/daemon/8.7/com.vertexcode.luxuryeye.composeApp-merged_res-42:/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "/home/muhammad_noman/.gradle/daemon/8.7/com.vertexcode.luxuryeye.composeApp-androidMain-43:/mipmap-mdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\noman\\.gradle\\daemon\\8.7\\com.vertexcode.luxuryeye.composeApp-merged_res-42:\\drawable_email_confirmation_image.png.flat",
+        "source": "C:\\Users\\noman\\.gradle\\daemon\\8.7\\com.vertexcode.luxuryeye.composeApp-main-45:\\drawable\\email_confirmation_image.png"
     },
     {
-        "merged": "/home/muhammad_noman/.gradle/daemon/8.7/com.vertexcode.luxuryeye.composeApp-merged_res-42:/drawable_apple_icon.xml.flat",
-        "source": "/home/muhammad_noman/.gradle/daemon/8.7/com.vertexcode.luxuryeye.composeApp-main-45:/drawable/apple_icon.xml"
+        "merged": "C:\\Users\\noman\\.gradle\\daemon\\8.7\\com.vertexcode.luxuryeye.composeApp-merged_res-42:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\noman\\.gradle\\daemon\\8.7\\com.vertexcode.luxuryeye.composeApp-androidMain-43:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "/home/muhammad_noman/.gradle/daemon/8.7/com.vertexcode.luxuryeye.composeApp-merged_res-42:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "/home/muhammad_noman/.gradle/daemon/8.7/com.vertexcode.luxuryeye.composeApp-androidMain-43:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\noman\\.gradle\\daemon\\8.7\\com.vertexcode.luxuryeye.composeApp-merged_res-42:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\noman\\.gradle\\daemon\\8.7\\com.vertexcode.luxuryeye.composeApp-main-45:\\drawable\\logo.png"
     },
     {
-        "merged": "/home/muhammad_noman/.gradle/daemon/8.7/com.vertexcode.luxuryeye.composeApp-merged_res-42:/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/home/muhammad_noman/.gradle/daemon/8.7/com.vertexcode.luxuryeye.composeApp-androidMain-43:/mipmap-mdpi/ic_launcher.png"
+        "merged": "C:\\Users\\noman\\.gradle\\daemon\\8.7\\com.vertexcode.luxuryeye.composeApp-merged_res-42:\\drawable_apple_icon.xml.flat",
+        "source": "C:\\Users\\noman\\.gradle\\daemon\\8.7\\com.vertexcode.luxuryeye.composeApp-main-45:\\drawable\\apple_icon.xml"
     },
     {
-        "merged": "/home/muhammad_noman/.gradle/daemon/8.7/com.vertexcode.luxuryeye.composeApp-merged_res-42:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "/home/muhammad_noman/.gradle/daemon/8.7/com.vertexcode.luxuryeye.composeApp-androidMain-43:/mipmap-xxxhdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\noman\\.gradle\\daemon\\8.7\\com.vertexcode.luxuryeye.composeApp-merged_res-42:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\noman\\.gradle\\daemon\\8.7\\com.vertexcode.luxuryeye.composeApp-androidMain-43:\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "/home/muhammad_noman/.gradle/daemon/8.7/com.vertexcode.luxuryeye.composeApp-merged_res-42:/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "/home/muhammad_noman/.gradle/daemon/8.7/com.vertexcode.luxuryeye.composeApp-androidMain-43:/mipmap-hdpi/ic_launcher.png"
+        "merged": "C:\\Users\\noman\\.gradle\\daemon\\8.7\\com.vertexcode.luxuryeye.composeApp-merged_res-42:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\noman\\.gradle\\daemon\\8.7\\com.vertexcode.luxuryeye.composeApp-androidMain-43:\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "/home/muhammad_noman/.gradle/daemon/8.7/com.vertexcode.luxuryeye.composeApp-merged_res-42:/drawable_logo.png.flat",
-        "source": "/home/muhammad_noman/.gradle/daemon/8.7/com.vertexcode.luxuryeye.composeApp-main-45:/drawable/logo.png"
+        "merged": "C:\\Users\\noman\\.gradle\\daemon\\8.7\\com.vertexcode.luxuryeye.composeApp-merged_res-42:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\noman\\.gradle\\daemon\\8.7\\com.vertexcode.luxuryeye.composeApp-androidMain-43:\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "/home/muhammad_noman/.gradle/daemon/8.7/com.vertexcode.luxuryeye.composeApp-merged_res-42:/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "/home/muhammad_noman/.gradle/daemon/8.7/com.vertexcode.luxuryeye.composeApp-androidMain-43:/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\noman\\.gradle\\daemon\\8.7\\com.vertexcode.luxuryeye.composeApp-merged_res-42:\\drawable_heart_icon.xml.flat",
+        "source": "C:\\Users\\noman\\.gradle\\daemon\\8.7\\com.vertexcode.luxuryeye.composeApp-main-45:\\drawable\\heart_icon.xml"
     },
     {
-        "merged": "/home/muhammad_noman/.gradle/daemon/8.7/com.vertexcode.luxuryeye.composeApp-merged_res-42:/drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "/home/muhammad_noman/.gradle/daemon/8.7/com.vertexcode.luxuryeye.composeApp-androidMain-43:/drawable-v24/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\noman\\.gradle\\daemon\\8.7\\com.vertexcode.luxuryeye.composeApp-merged_res-42:\\drawable_back_arrow_icon.xml.flat",
+        "source": "C:\\Users\\noman\\.gradle\\daemon\\8.7\\com.vertexcode.luxuryeye.composeApp-main-45:\\drawable\\back_arrow_icon.xml"
     },
     {
-        "merged": "/home/muhammad_noman/.gradle/daemon/8.7/com.vertexcode.luxuryeye.composeApp-merged_res-42:/drawable_ic_launcher_background.xml.flat",
-        "source": "/home/muhammad_noman/.gradle/daemon/8.7/com.vertexcode.luxuryeye.composeApp-androidMain-43:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\noman\\.gradle\\daemon\\8.7\\com.vertexcode.luxuryeye.composeApp-merged_res-42:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\noman\\.gradle\\daemon\\8.7\\com.vertexcode.luxuryeye.composeApp-androidMain-43:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\noman\\.gradle\\daemon\\8.7\\com.vertexcode.luxuryeye.composeApp-merged_res-42:\\drawable_product_image.png.flat",
+        "source": "C:\\Users\\noman\\.gradle\\daemon\\8.7\\com.vertexcode.luxuryeye.composeApp-main-45:\\drawable\\product_image.png"
+    },
+    {
+        "merged": "C:\\Users\\noman\\.gradle\\daemon\\8.7\\com.vertexcode.luxuryeye.composeApp-merged_res-42:\\drawable_google_icon.png.flat",
+        "source": "C:\\Users\\noman\\.gradle\\daemon\\8.7\\com.vertexcode.luxuryeye.composeApp-main-45:\\drawable\\google_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\noman\\.gradle\\daemon\\8.7\\com.vertexcode.luxuryeye.composeApp-merged_res-42:\\drawable_facebook_icon.png.flat",
+        "source": "C:\\Users\\noman\\.gradle\\daemon\\8.7\\com.vertexcode.luxuryeye.composeApp-main-45:\\drawable\\facebook_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\noman\\.gradle\\daemon\\8.7\\com.vertexcode.luxuryeye.composeApp-merged_res-42:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\noman\\.gradle\\daemon\\8.7\\com.vertexcode.luxuryeye.composeApp-androidMain-43:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\noman\\.gradle\\daemon\\8.7\\com.vertexcode.luxuryeye.composeApp-merged_res-42:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\noman\\.gradle\\daemon\\8.7\\com.vertexcode.luxuryeye.composeApp-androidMain-43:\\drawable\\ic_launcher_background.xml"
     }
 ]

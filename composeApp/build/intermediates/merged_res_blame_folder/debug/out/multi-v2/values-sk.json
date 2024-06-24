@@ -4,24 +4,7 @@
             "outputFile": "com.vertexcode.luxuryeye.composeApp-mergeDebugResources-40:/values-sk/values-sk.xml",
             "map": [
                 {
-                    "source": "/home/muhammad_noman/.gradle/caches/transforms-4/89fddc9b768360164e170177641bb390/transformed/core-1.13.0/res/values-sk/values-sk.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,151,253,354,452,562,670,792",
-                        "endColumns": "95,101,100,97,109,107,121,100",
-                        "endOffsets": "146,248,349,447,557,665,787,888"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,23",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,201,303,404,502,612,720,2035",
-                        "endColumns": "95,101,100,97,109,107,121,100",
-                        "endOffsets": "196,298,399,497,607,715,837,2131"
-                    }
-                },
-                {
-                    "source": "/home/muhammad_noman/.gradle/caches/transforms-4/8449b42e79d3d6c4176818a443e3cc98/transformed/ui-release/res/values-sk/values-sk.xml",
+                    "source": "C:\\Users\\noman\\.gradle\\caches\\transforms-4\\8449b42e79d3d6c4176818a443e3cc98\\transformed\\ui-release\\res\\values-sk\\values-sk.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -38,7 +21,24 @@
                     }
                 },
                 {
-                    "source": "/home/muhammad_noman/.gradle/caches/transforms-4/111fcb534e0a8eaf6d1e9e6c591fbfb5/transformed/foundation-release/res/values-sk/values-sk.xml",
+                    "source": "C:\\Users\\noman\\.gradle\\caches\\transforms-4\\89fddc9b768360164e170177641bb390\\transformed\\core-1.13.0\\res\\values-sk\\values-sk.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,151,253,354,452,562,670,792",
+                        "endColumns": "95,101,100,97,109,107,121,100",
+                        "endOffsets": "146,248,349,447,557,665,787,888"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,23",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,201,303,404,502,612,720,2035",
+                        "endColumns": "95,101,100,97,109,107,121,100",
+                        "endOffsets": "196,298,399,497,607,715,837,2131"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\noman\\.gradle\\caches\\transforms-4\\111fcb534e0a8eaf6d1e9e6c591fbfb5\\transformed\\foundation-release\\res\\values-sk\\values-sk.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

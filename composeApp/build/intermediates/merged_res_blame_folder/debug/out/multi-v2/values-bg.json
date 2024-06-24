@@ -4,7 +4,7 @@
             "outputFile": "com.vertexcode.luxuryeye.composeApp-mergeDebugResources-40:/values-bg/values-bg.xml",
             "map": [
                 {
-                    "source": "/home/muhammad_noman/.gradle/caches/transforms-4/8449b42e79d3d6c4176818a443e3cc98/transformed/ui-release/res/values-bg/values-bg.xml",
+                    "source": "C:\\Users\\noman\\.gradle\\caches\\transforms-4\\8449b42e79d3d6c4176818a443e3cc98\\transformed\\ui-release\\res\\values-bg\\values-bg.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,24 +21,7 @@
                     }
                 },
                 {
-                    "source": "/home/muhammad_noman/.gradle/caches/transforms-4/89fddc9b768360164e170177641bb390/transformed/core-1.13.0/res/values-bg/values-bg.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,152,262,364,465,572,677,796",
-                        "endColumns": "96,109,101,100,106,104,118,100",
-                        "endOffsets": "147,257,359,460,567,672,791,892"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,23",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,202,312,414,515,622,727,2051",
-                        "endColumns": "96,109,101,100,106,104,118,100",
-                        "endOffsets": "197,307,409,510,617,722,841,2147"
-                    }
-                },
-                {
-                    "source": "/home/muhammad_noman/.gradle/caches/transforms-4/111fcb534e0a8eaf6d1e9e6c591fbfb5/transformed/foundation-release/res/values-bg/values-bg.xml",
+                    "source": "C:\\Users\\noman\\.gradle\\caches\\transforms-4\\111fcb534e0a8eaf6d1e9e6c591fbfb5\\transformed\\foundation-release\\res\\values-bg\\values-bg.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -52,6 +35,23 @@
                         "startOffsets": "2425,2513",
                         "endColumns": "87,94",
                         "endOffsets": "2508,2603"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\noman\\.gradle\\caches\\transforms-4\\89fddc9b768360164e170177641bb390\\transformed\\core-1.13.0\\res\\values-bg\\values-bg.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,152,262,364,465,572,677,796",
+                        "endColumns": "96,109,101,100,106,104,118,100",
+                        "endOffsets": "147,257,359,460,567,672,791,892"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,23",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,202,312,414,515,622,727,2051",
+                        "endColumns": "96,109,101,100,106,104,118,100",
+                        "endOffsets": "197,307,409,510,617,722,841,2147"
                     }
                 }
             ]
