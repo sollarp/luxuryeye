@@ -279,7 +279,7 @@ fun ShowEchProductCart(
                 }
 
                 Image(
-                    painter = painterResource(id = R.drawable.heart_icon),
+                    painter = painterResource(id = R.drawable.logo),
                     contentDescription = "Heart Icon",
                 )
             }

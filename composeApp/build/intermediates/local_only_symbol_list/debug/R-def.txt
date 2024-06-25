@@ -6,7 +6,6 @@ drawable bag_icon
 drawable email_confirmation_image
 drawable facebook_icon
 drawable google_icon
-drawable heart_icon
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable logo

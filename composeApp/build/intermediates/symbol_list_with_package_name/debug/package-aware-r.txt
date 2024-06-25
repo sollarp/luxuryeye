@@ -52,7 +52,6 @@ drawable bag_icon
 drawable email_confirmation_image
 drawable facebook_icon
 drawable google_icon
-drawable heart_icon
 drawable ic_call_answer
 drawable ic_call_answer_low
 drawable ic_call_answer_video
