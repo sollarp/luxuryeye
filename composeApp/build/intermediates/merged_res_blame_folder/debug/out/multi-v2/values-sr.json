@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.vertexcode.luxuryeye.composeApp-mergeDebugResources-40:/values-sr/values-sr.xml",
+            "outputFile": "com.vertexcode.luxuryeye.composeApp-mergeDebugResources-2:/values-sr/values-sr.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\noman\\.gradle\\caches\\transforms-4\\89fddc9b768360164e170177641bb390\\transformed\\core-1.13.0\\res\\values-sr\\values-sr.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,153,255,352,456,560,665,781",
-                        "endColumns": "97,101,96,103,103,104,115,100",
-                        "endOffsets": "148,250,347,451,555,660,776,877"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,23",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,203,305,402,506,610,715,2023",
-                        "endColumns": "97,101,96,103,103,104,115,100",
-                        "endOffsets": "198,300,397,501,605,710,826,2119"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\noman\\.gradle\\caches\\transforms-4\\8449b42e79d3d6c4176818a443e3cc98\\transformed\\ui-release\\res\\values-sr\\values-sr.xml",
+                    "source": "/usr/local/Cellar/openjdk@17/17.0.11/libexec/openjdk.jdk/Contents/Home/caches/transforms-4/8449b42e79d3d6c4176818a443e3cc98/transformed/ui-release/res/values-sr/values-sr.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -38,7 +21,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\noman\\.gradle\\caches\\transforms-4\\111fcb534e0a8eaf6d1e9e6c591fbfb5\\transformed\\foundation-release\\res\\values-sr\\values-sr.xml",
+                    "source": "/usr/local/Cellar/openjdk@17/17.0.11/libexec/openjdk.jdk/Contents/Home/caches/transforms-4/89fddc9b768360164e170177641bb390/transformed/core-1.13.0/res/values-sr/values-sr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,255,352,456,560,665,781",
+                        "endColumns": "97,101,96,103,103,104,115,100",
+                        "endOffsets": "148,250,347,451,555,660,776,877"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,23",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,203,305,402,506,610,715,2023",
+                        "endColumns": "97,101,96,103,103,104,115,100",
+                        "endOffsets": "198,300,397,501,605,710,826,2119"
+                    }
+                },
+                {
+                    "source": "/usr/local/Cellar/openjdk@17/17.0.11/libexec/openjdk.jdk/Contents/Home/caches/transforms-4/111fcb534e0a8eaf6d1e9e6c591fbfb5/transformed/foundation-release/res/values-sr/values-sr.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

@@ -11,7 +11,6 @@ drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable logo
 drawable product_image
-drawable rectangle_discount
 drawable search_icon
 mipmap ic_launcher
 mipmap ic_launcher_round

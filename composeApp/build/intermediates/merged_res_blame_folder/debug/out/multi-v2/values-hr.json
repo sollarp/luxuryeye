@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.vertexcode.luxuryeye.composeApp-mergeDebugResources-40:/values-hr/values-hr.xml",
+            "outputFile": "com.vertexcode.luxuryeye.composeApp-mergeDebugResources-2:/values-hr/values-hr.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\noman\\.gradle\\caches\\transforms-4\\8449b42e79d3d6c4176818a443e3cc98\\transformed\\ui-release\\res\\values-hr\\values-hr.xml",
+                    "source": "/usr/local/Cellar/openjdk@17/17.0.11/libexec/openjdk.jdk/Contents/Home/caches/transforms-4/8449b42e79d3d6c4176818a443e3cc98/transformed/ui-release/res/values-hr/values-hr.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,24 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\noman\\.gradle\\caches\\transforms-4\\89fddc9b768360164e170177641bb390\\transformed\\core-1.13.0\\res\\values-hr\\values-hr.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,153,260,357,456,560,664,781",
-                        "endColumns": "97,106,96,98,103,103,116,100",
-                        "endOffsets": "148,255,352,451,555,659,776,877"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,23",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,203,310,407,506,610,714,2041",
-                        "endColumns": "97,106,96,98,103,103,116,100",
-                        "endOffsets": "198,305,402,501,605,709,826,2137"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\noman\\.gradle\\caches\\transforms-4\\111fcb534e0a8eaf6d1e9e6c591fbfb5\\transformed\\foundation-release\\res\\values-hr\\values-hr.xml",
+                    "source": "/usr/local/Cellar/openjdk@17/17.0.11/libexec/openjdk.jdk/Contents/Home/caches/transforms-4/111fcb534e0a8eaf6d1e9e6c591fbfb5/transformed/foundation-release/res/values-hr/values-hr.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -52,6 +35,23 @@
                         "startOffsets": "2409,2492",
                         "endColumns": "82,84",
                         "endOffsets": "2487,2572"
+                    }
+                },
+                {
+                    "source": "/usr/local/Cellar/openjdk@17/17.0.11/libexec/openjdk.jdk/Contents/Home/caches/transforms-4/89fddc9b768360164e170177641bb390/transformed/core-1.13.0/res/values-hr/values-hr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,260,357,456,560,664,781",
+                        "endColumns": "97,106,96,98,103,103,116,100",
+                        "endOffsets": "148,255,352,451,555,659,776,877"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,23",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,203,310,407,506,610,714,2041",
+                        "endColumns": "97,106,96,98,103,103,116,100",
+                        "endOffsets": "198,305,402,501,605,709,826,2137"
                     }
                 }
             ]

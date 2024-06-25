@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.vertexcode.luxuryeye.composeApp-mergeDebugResources-40:/values/values.xml",
+            "outputFile": "com.vertexcode.luxuryeye.composeApp-mergeDebugResources-2:/values/values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\noman\\.gradle\\caches\\transforms-4\\8449b42e79d3d6c4176818a443e3cc98\\transformed\\ui-release\\res\\values\\values.xml",
+                    "source": "/usr/local/Cellar/openjdk@17/17.0.11/libexec/openjdk.jdk/Contents/Home/caches/transforms-4/8449b42e79d3d6c4176818a443e3cc98/transformed/ui-release/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,60,63",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -23,58 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\noman\\.gradle\\caches\\transforms-4\\3943b9a04ea9e693c4490382690d72a9\\transformed\\lifecycle-viewmodel-2.6.2\\res\\values\\values.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "49",
-                        "endOffsets": "100"
-                    },
-                    "to": {
-                        "startLines": "95",
-                        "startColumns": "4",
-                        "startOffsets": "5764",
-                        "endColumns": "49",
-                        "endOffsets": "5809"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\noman\\.gradle\\caches\\transforms-4\\72e2fe15b727089500aba91c71d8c123\\transformed\\startup-runtime-1.1.1\\res\\values\\values.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "82",
-                        "endOffsets": "133"
-                    },
-                    "to": {
-                        "startLines": "98",
-                        "startColumns": "4",
-                        "startOffsets": "5937",
-                        "endColumns": "82",
-                        "endOffsets": "6015"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\noman\\AndroidStudioProjects\\luxuryeye\\composeApp\\src\\androidMain\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "17",
-                        "endColumns": "50",
-                        "endOffsets": "63"
-                    },
-                    "to": {
-                        "startLines": "99",
-                        "startColumns": "4",
-                        "startOffsets": "6020",
-                        "endColumns": "50",
-                        "endOffsets": "6066"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\noman\\.gradle\\caches\\transforms-4\\a6bbe53a04709077b7af3dc0a23d5e13\\transformed\\savedstate-1.2.1\\res\\values\\values.xml",
+                    "source": "/usr/local/Cellar/openjdk@17/17.0.11/libexec/openjdk.jdk/Contents/Home/caches/transforms-4/a6bbe53a04709077b7af3dc0a23d5e13/transformed/savedstate-1.2.1/res/values/values.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -91,7 +40,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\noman\\.gradle\\caches\\transforms-4\\89fddc9b768360164e170177641bb390\\transformed\\core-1.13.0\\res\\values\\values.xml",
+                    "source": "/usr/local/Cellar/openjdk@17/17.0.11/libexec/openjdk.jdk/Contents/Home/caches/transforms-4/89fddc9b768360164e170177641bb390/transformed/core-1.13.0/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,98,99,103,104,105,106,112,122,155,176,209",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -110,24 +59,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\noman\\.gradle\\caches\\transforms-4\\d7cf643d3c35e1e0d2dd9e80e01f7537\\transformed\\customview-poolingcontainer-1.0.0\\res\\values\\values.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,109",
-                        "endColumns": "53,66",
-                        "endOffsets": "104,171"
-                    },
-                    "to": {
-                        "startLines": "71,74",
-                        "startColumns": "4,4",
-                        "startOffsets": "4515,4639",
-                        "endColumns": "53,66",
-                        "endOffsets": "4564,4701"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\noman\\.gradle\\caches\\transforms-4\\150caa6b0c78febc723a3aa91fda761d\\transformed\\activity-1.9.0\\res\\values\\values.xml",
+                    "source": "/usr/local/Cellar/openjdk@17/17.0.11/libexec/openjdk.jdk/Contents/Home/caches/transforms-4/150caa6b0c78febc723a3aa91fda761d/transformed/activity-1.9.0/res/values/values.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -144,7 +76,58 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\noman\\.gradle\\caches\\transforms-4\\4c39990afeda5073c4b5103dd992cd5f\\transformed\\lifecycle-runtime-2.6.2\\res\\values\\values.xml",
+                    "source": "/usr/local/Cellar/openjdk@17/17.0.11/libexec/openjdk.jdk/Contents/Home/caches/transforms-4/111fcb534e0a8eaf6d1e9e6c591fbfb5/transformed/foundation-release/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,111",
+                        "endColumns": "55,54",
+                        "endOffsets": "106,161"
+                    },
+                    "to": {
+                        "startLines": "125,126",
+                        "startColumns": "4,4",
+                        "startOffsets": "7618,7674",
+                        "endColumns": "55,54",
+                        "endOffsets": "7669,7724"
+                    }
+                },
+                {
+                    "source": "/usr/local/Cellar/openjdk@17/17.0.11/libexec/openjdk.jdk/Contents/Home/caches/transforms-4/d7cf643d3c35e1e0d2dd9e80e01f7537/transformed/customview-poolingcontainer-1.0.0/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,109",
+                        "endColumns": "53,66",
+                        "endOffsets": "104,171"
+                    },
+                    "to": {
+                        "startLines": "71,74",
+                        "startColumns": "4,4",
+                        "startOffsets": "4515,4639",
+                        "endColumns": "53,66",
+                        "endOffsets": "4564,4701"
+                    }
+                },
+                {
+                    "source": "/usr/local/Cellar/openjdk@17/17.0.11/libexec/openjdk.jdk/Contents/Home/caches/transforms-4/72e2fe15b727089500aba91c71d8c123/transformed/startup-runtime-1.1.1/res/values/values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "82",
+                        "endOffsets": "133"
+                    },
+                    "to": {
+                        "startLines": "98",
+                        "startColumns": "4",
+                        "startOffsets": "5937",
+                        "endColumns": "82",
+                        "endOffsets": "6015"
+                    }
+                },
+                {
+                    "source": "/usr/local/Cellar/openjdk@17/17.0.11/libexec/openjdk.jdk/Contents/Home/caches/transforms-4/4c39990afeda5073c4b5103dd992cd5f/transformed/lifecycle-runtime-2.6.2/res/values/values.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -161,20 +144,37 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\noman\\.gradle\\caches\\transforms-4\\111fcb534e0a8eaf6d1e9e6c591fbfb5\\transformed\\foundation-release\\res\\values\\values.xml",
+                    "source": "/Users/peter/Documents/Android studio projects/Luxuryeye/composeApp/src/androidMain/res/values/strings.xml",
                     "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,111",
-                        "endColumns": "55,54",
-                        "endOffsets": "106,161"
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "50",
+                        "endOffsets": "62"
                     },
                     "to": {
-                        "startLines": "125,126",
-                        "startColumns": "4,4",
-                        "startOffsets": "7618,7674",
-                        "endColumns": "55,54",
-                        "endOffsets": "7669,7724"
+                        "startLines": "99",
+                        "startColumns": "4",
+                        "startOffsets": "6020",
+                        "endColumns": "50",
+                        "endOffsets": "6066"
+                    }
+                },
+                {
+                    "source": "/usr/local/Cellar/openjdk@17/17.0.11/libexec/openjdk.jdk/Contents/Home/caches/transforms-4/3943b9a04ea9e693c4490382690d72a9/transformed/lifecycle-viewmodel-2.6.2/res/values/values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "49",
+                        "endOffsets": "100"
+                    },
+                    "to": {
+                        "startLines": "95",
+                        "startColumns": "4",
+                        "startOffsets": "5764",
+                        "endColumns": "49",
+                        "endOffsets": "5809"
                     }
                 }
             ]
