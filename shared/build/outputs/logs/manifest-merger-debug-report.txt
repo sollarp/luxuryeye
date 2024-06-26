@@ -1,16 +1,16 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/muhammad_noman/luxuryeye/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest18309112334655276812.xml:2:13-83
-INJECTED from /home/muhammad_noman/luxuryeye/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest18309112334655276812.xml:2:13-83
+ADDED from /Users/peter/Documents/Android studio projects/Luxuryeye/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16432799994501860615.xml:2:13-83
+INJECTED from /Users/peter/Documents/Android studio projects/Luxuryeye/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16432799994501860615.xml:2:13-83
 	package
-		INJECTED from /home/muhammad_noman/luxuryeye/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest18309112334655276812.xml
+		INJECTED from /Users/peter/Documents/Android studio projects/Luxuryeye/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16432799994501860615.xml
 	xmlns:android
-		ADDED from /home/muhammad_noman/luxuryeye/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest18309112334655276812.xml:2:23-81
+		ADDED from /Users/peter/Documents/Android studio projects/Luxuryeye/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16432799994501860615.xml:2:23-81
 uses-sdk
-INJECTED from /home/muhammad_noman/luxuryeye/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest18309112334655276812.xml reason: use-sdk injection requested
-INJECTED from /home/muhammad_noman/luxuryeye/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest18309112334655276812.xml
-INJECTED from /home/muhammad_noman/luxuryeye/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest18309112334655276812.xml
+INJECTED from /Users/peter/Documents/Android studio projects/Luxuryeye/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16432799994501860615.xml reason: use-sdk injection requested
+INJECTED from /Users/peter/Documents/Android studio projects/Luxuryeye/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16432799994501860615.xml
+INJECTED from /Users/peter/Documents/Android studio projects/Luxuryeye/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16432799994501860615.xml
 	android:targetSdkVersion
-		INJECTED from /home/muhammad_noman/luxuryeye/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest18309112334655276812.xml
+		INJECTED from /Users/peter/Documents/Android studio projects/Luxuryeye/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16432799994501860615.xml
 	android:minSdkVersion
-		INJECTED from /home/muhammad_noman/luxuryeye/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest18309112334655276812.xml
+		INJECTED from /Users/peter/Documents/Android studio projects/Luxuryeye/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16432799994501860615.xml
