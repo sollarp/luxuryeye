@@ -1,3 +1,11 @@
+App Screenshut
+
+<img width="390" height="844" alt="Home Page" src="https://github.com/user-attachments/assets/d22815e4-b895-4655-bb6d-fc33a3d4f176" />
+<img width="390" height="854" alt="Cart" src="https://github.com/user-attachments/assets/aa3c208d-6d42-4fbc-9c2b-8c4b5941aa1e" />
+<img width="447" height="2085" alt="product item" src="https://github.com/user-attachments/assets/3ee8b762-d459-4225-b91b-780fcdbd2752" />
+
+
+
 please find full guide here = https://www.jetbrains.com/help/kotlin-multiplatform-dev/multiplatform-setup.html
 fixing build
 
